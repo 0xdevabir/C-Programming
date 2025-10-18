@@ -1,0 +1,10 @@
+Reporting-MTA: dns;BBL-DC-EXCH03.bd.bracbank.com
+Received-From-MTA: dns;BBL-EXARC-SRV02.bd.bracbank.com
+Arrival-Date: Mon, 6 Oct 2025 12:44:39 +0000
+
+Final-Recipient: rfc822;maria.naz@bracbank.com
+Action: failed
+Status: 5.2.2
+Diagnostic-Code: smtp;554 5.2.2 mailbox full; STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot get ID from name. 16.55847:070D0000, 17.43559:000000008C000000000000000000000000000000, 20.52176:020F028A10004010F1030000, 20.50032:020F028A80174010F1030000, 0.35180:8F000000, 255.23226:F1030000, 255.27962:56000000, 255.17082:B9040000, 0.16993:14000000, 4.21921:B9040000, 255.31418:DD040000, 0.22753:FA000000, 255.21817:B9040000, 0.37224:00000000, 4.40808:DD040000, 0.24529:352D3463, 4.18385:DD040000, 0.36864:32333831, 4.37120:DD040000 [Stage: CreateMessage]
+Remote-MTA: dns;BBL-DC-EXCH04.bd.bracbank.com
+
